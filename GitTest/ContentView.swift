@@ -18,6 +18,7 @@ struct ContentView: View {
                 Text("Second modification")
                 Text("3rd modification...")
                 Text("4th modification")
+                Text("5h modification")
             }
             .padding()
             .navigationTitle("Git Tests")
