@@ -16,6 +16,7 @@ struct ContentView: View {
                     .foregroundStyle(.tint)
                 Text("Hello, Alain!")
                 Text("Second modification")
+                Text("3rd modification...")
             }
             .padding()
             .navigationTitle("Git Tests")
